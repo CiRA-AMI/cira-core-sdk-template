@@ -1,10 +1,15 @@
-# cira-core-sdk-template
+# CiRA CORE SDK Template
 
-Hello.. 
+![cira_core_sdk](https://github.com/CiRA-AMI/cira-core-sdk-template/blob/main/tmp_pic/cira_core_sdk.png?raw=true?inline=false)
 
-##Ubuntu 
-put plugin and model in ~/CiRA_CORE_Dev_Template
+##################
 
+# Ubuntu 
+```bash
+	put plugin and model in ~/CiRA_CORE_Dev_Template
+```
 
-##Windows
-put plugin and model in C:/CiRA-CORE-Dev/CiRA_CORE_Dev_Template
+# Windows
+```bash
+	put plugin and model in C:/CiRA-CORE-Dev/CiRA_CORE_Dev_Template
+```
