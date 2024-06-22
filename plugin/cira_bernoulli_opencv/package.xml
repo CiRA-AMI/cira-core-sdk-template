@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>cira_bernoulli_opencv</name>
+  <version>0.0.0</version>
+  <description>The cira_bernoulli_opencv package</description>
+
+  <maintainer email="cirarobotics@gmail.com">cira_kmitl</maintainer>
+
+  <!-- One license tag required, multiple allowed, one license per tag -->
+  <!-- Commonly used license strings: -->
+  <!--   BSD, MIT, Boost Software License, GPLv2, GPLv3, LGPLv2.1, LGPLv3 -->
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>roscpp</depend>
+  <depend>cira_lib_bernoulli</depend>
+  <depend>cira_std_lib</depend>
+
+  <export>
+  </export>
+</package>

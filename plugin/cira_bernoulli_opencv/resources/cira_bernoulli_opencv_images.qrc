@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/cira_bernoulli_opencv">
+        <file>images/icon_window_restore.png</file>
+        <file>images/icon_window_minimize.png</file>
+        <file>images/icon_window_maximize.png</file>
+        <file>images/icon_window_close.png</file>
+        <file>images/handle.png</file>
+        <file>images/down_arrow.png</file>
+        <file>images/checkbox.png</file>
+        <file>images/icon.png</file>
+    </qresource>
+</RCC>

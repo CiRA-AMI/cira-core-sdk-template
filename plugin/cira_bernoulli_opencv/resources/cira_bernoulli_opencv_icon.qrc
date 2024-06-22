@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/cira_bernoulli_opencv">
+        <file>icon/node_disable.png</file>
+        <file>icon/node_setting.png</file>
+        <file>icon/blue_led.png</file>
+        <file>icon/green_led.png</file>
+        <file>icon/yellow_led.png</file>
+        <file>icon/node_enable.png</file>
+        <file>icon/cira_core_icon.png</file>
+        <file>icon/cira_flow_icon.png</file>
+        <file>icon/func_icon.png</file>
+        <file>icon/gray_led.png</file>
+        <file>icon/pin.png</file>
+        <file>icon/unpin.png</file>
+        <file>icon/sub_bernoulli.png</file>
+        <file>icon/red_led.png</file>
+        <file>icon/blue_cir_led.png</file>
+        <file>icon/gray_cir_led.png</file>
+        <file>icon/run_led.gif</file>
+    </qresource>
+</RCC>
