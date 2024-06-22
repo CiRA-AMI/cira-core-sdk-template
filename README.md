@@ -5,6 +5,10 @@
 ## Video
 - [Video : CiRA CORE SDK](https://www.youtube.com/watch?v=nI_yFwjwDUQ&list=PLc_6c2ErU_Iv66WNj53jcjYWExbfaZaDw) <br />
 
+## Email
+- cirarobotics@gmail.com
+
+
 # Ubuntu 
 ```bash
 	put plugin and model in ~/CiRA_CORE_Dev_Template
