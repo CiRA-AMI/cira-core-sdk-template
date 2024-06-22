@@ -2,7 +2,8 @@
 
 ![cira_core_sdk](https://github.com/CiRA-AMI/cira-core-sdk-template/blob/main/tmp_pic/cira_core_sdk.png?raw=true?inline=false)
 
-##################
+## Video
+- [Video : CiRA CORE SDK](https://www.youtube.com/watch?v=nI_yFwjwDUQ&list=PLc_6c2ErU_Iv66WNj53jcjYWExbfaZaDw) <br />
 
 # Ubuntu 
 ```bash
